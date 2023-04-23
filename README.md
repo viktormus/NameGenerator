@@ -16,5 +16,5 @@ Some letters are not considered, namely those that are rarely used in Finnish, s
 2. Letters corresponding to the type (vovel/consonant) are assigned randomly.
 3. 
 
---
+--\n
 Initially I coded the thing in Javascript, as I'm more comfortable with it. Afterwards, I converted the code into Python. That's why .py file has no commenting on the actual algorithm - only on the GUI part.
