@@ -17,7 +17,7 @@ Software that generates Finnish (first) names.
 
 1. A word structure is chosen.
 2. Letters corresponding to the type (vovel/consonant) are assigned randomly.
-3. 
+3. The word is redacted based on some rules, eg. two consecutive v's are not allowed.
 
 --
 Initially I coded the thing in Javascript, as I'm more comfortable with it. Afterwards, I converted the code into Python. That's why .py file has no commenting on the actual algorithm - only on the GUI part.
