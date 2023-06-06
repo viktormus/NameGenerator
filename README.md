@@ -3,7 +3,7 @@ Software that generates Finnish (first) names.
 
 **Background:** a friend of mine was graduating from university. He had lots of house plants, some of which had names. So, I had the idea to code, as a graduation gift, a name generator for his plants.
 
-**How to use:** There are two .exe files. 'Win' works on Windows. 'Universal' should work on Windows, macOS, and Linux... though I've only tested it on Windows.
+**How to use:** Install .exe file and run it on Windows.
 
 **How it works:**
 
